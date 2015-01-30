@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Verification\Verification\bin\Debug\Verification.exe
+C:\Users\Administrator\Desktop\Verification\Verification\bin\Debug\Verification.pdb
+C:\Users\Administrator\Desktop\Verification\Verification\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Verification\Verification\obj\x86\Debug\Verification.Form1.resources
+C:\Users\Administrator\Desktop\Verification\Verification\obj\x86\Debug\Verification.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Verification\Verification\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Verification\Verification\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Verification\Verification\obj\x86\Debug\Verification.exe
+C:\Users\Administrator\Desktop\Verification\Verification\obj\x86\Debug\Verification.pdb
